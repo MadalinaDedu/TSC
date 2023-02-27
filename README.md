@@ -20,3 +20,4 @@ Laborator 2: 27.02.2023
 8. git config --global user.name "your_username"
 9. git config --global user.email "your_email_address@example.com"
 10. git config --global --list
+11. git config --global credential.helper store
