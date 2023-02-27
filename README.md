@@ -10,6 +10,7 @@ Laborator 1: 20.02.2023
 7. Fiecare push pe github se va realiza din terminal  
 
 Laborator 2: 27.02.2023
+HTTP
 1. pwd
 2. cd ~
 3. mkadir proj ->creare fisier
@@ -23,3 +24,14 @@ Laborator 2: 27.02.2023
 11. git config --global credential.helper store
 12. Nu mai vreau parola
 13. * Gasesc comanda de git care sa stearga parolele de git
+14. rm -fr TSC -> stergere fisiere 
+
+SSH
+1.  git clone git@github.com:MadalinaDedu/TSC.git
+2. cd ~
+3. cd .ssh
+4. ssh-keygen -t rsa -b 4096 -C "madalina.dedu@yahoo.com"
+5. code id_rsa.pu
+6. pentru a vedea cheia ->  alt z 
+6. cd proj
+7. git clone git@github.com:MadalinaDedu/TSC.git
