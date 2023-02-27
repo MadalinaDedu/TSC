@@ -17,3 +17,6 @@ Laborator 2: 27.02.2023
 5. ls -al -> pentru a vedea permisiunile unui fisier
 6. git clone https://github.com/MadalinaDedu/TSC.git -> clonarea repository github
 7. code README.md -> editarea readme in VS
+8. git config --global user.name "your_username"
+9. git config --global user.email "your_email_address@example.com"
+10. git config --global --list
