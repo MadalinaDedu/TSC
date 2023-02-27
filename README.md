@@ -9,3 +9,11 @@ Laborator 1: 20.02.2023
 6. In fiecare laborator încărcăm ce am lucrat pe github, astfel se va realiza prezenta la laborator
 7. Fiecare push pe github se va realiza din terminal  
 
+Laborator 2: 27.02.2023
+1. pwd
+2. cd ~
+3. mkadir proj ->creare fisier
+4. cd proj -> mutarea in fisierul creat
+5. ls -al -> pentru a vedea permisiunile unui fisier
+6. git clone https://github.com/MadalinaDedu/TSC.git -> clonarea repository github
+7. code README.md -> editarea readme in VS
