@@ -21,3 +21,4 @@ Laborator 2: 27.02.2023
 9. git config --global user.email "your_email_address@example.com"
 10. git config --global --list
 11. git config --global credential.helper store
+12. Nu mai vreau parola
