@@ -22,3 +22,4 @@ Laborator 2: 27.02.2023
 10. git config --global --list
 11. git config --global credential.helper store
 12. Nu mai vreau parola
+13. * Gasesc comanda de git care sa stearga parolele de git
